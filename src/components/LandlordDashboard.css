@@ -1,0 +1,44 @@
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .dashboard-title {
+    margin-bottom: 20px;
+  }
+  
+  .add-tenant-form {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  .nav-tabs {
+    margin-bottom: 20px;
+  }
+  
+  .tab-content {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    padding: 20px;
+    border-radius: 0 0 5px 5px;
+  }
+  
+  .table {
+    background-color: #fff;
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
